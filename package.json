@@ -28,7 +28,7 @@
         "@sl-code-lords/wabetainfo": "^1.2.0",
         "@tobyg74/tiktok-api-dl": "^1.0.13",
         "@vitalets/google-translate-api": "^9.2.0",
-        "@whiskeysockets/baileys": "^git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
+        "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
         "api-dylux": "latest",
         "aptoide-scraper": "^1.0.1",
         "awesome-phonenumber": "^6.2.0",
